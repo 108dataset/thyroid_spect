@@ -55,3 +55,8 @@ Xét trong tập dữ liệu: tác giả đã chọn từ 9.500 lấy 1.775 hìn
 | --- | --- | --- |
 | Tăng hoạt tính phóng xạ (Dương tính) | 863 | 48.6 |
 | Không tăng hoạt tính phóng xạ (Âm tính) | 912 | 51.4 |
+
+## Liên hệ
+
+Mọi yêu cầu truy cập bộ dữ liệu vui lòng liên hệ:
+- **Email**: Phubinh1455@gmail.com
